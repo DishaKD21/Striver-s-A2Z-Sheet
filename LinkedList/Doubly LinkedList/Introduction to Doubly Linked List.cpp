@@ -1,6 +1,4 @@
 //Introduction to Doubly Linked List
-
-
 /*
 class Node{
 public:
