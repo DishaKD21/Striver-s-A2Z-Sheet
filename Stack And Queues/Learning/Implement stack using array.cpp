@@ -1,4 +1,5 @@
 //Implement stack using array
+
 /*
 here we are declaring two things one is array and one is top variable to keep 
 track of the recent element which got added when pushing increasing top and storing 
