@@ -1,4 +1,4 @@
-//7. Reverse Integer
+//7.Reverse Integer
 /*
 here we are running loop till given number is != 0 each time finding reminder for 
 getting last number everytime adding it into the sum also multiplying sum with 10 
