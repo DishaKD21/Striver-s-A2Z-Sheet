@@ -25,7 +25,7 @@ vector<vector<int>> f(int i, int arr[], int n, vector<int> &vec, vector<vector<i
     sum-=arr[i];
     f(i + 1, arr, n, vec, ans,sum,k);
     return ans;
-}
+} 
 int main()
 {
     vector<vector<int>> ans;
